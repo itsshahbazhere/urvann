@@ -38,13 +38,6 @@ npm install
 
 ```
 
-### 3. Set Environment Variables
-
-Create a `.env` file in the root directory and add:
-
-```
-VITE_API_BASEURL=https://your-api-url.com
-```
 
 ### 4. Run the Project
 
@@ -58,25 +51,6 @@ The app runs on `http://localhost:5173` by default.
 
 ---
 
-## Folder Structure
-
-```plaintext
-src/
-  components/
-    Footer.jsx
-    ...
-  pages/
-    Home.jsx
-    Admin.jsx
-    AddPlant.jsx
-    ...
-  App.jsx
-  main.jsx
-  ...
-public/
-  ...
-README.md
-```
 
 ---
 
@@ -90,34 +64,5 @@ README.md
 
 ---
 
-## Screenshots
 
-### Home Page
-
-![Home Page](docs/screenshot-home.png)
-
-### Admin Login
-
-![Admin Login](docs/screenshot-admin.png)
-
-### Add Plant (Admin)
-
-![Add Plant](docs/screenshot-addplant.png)
-
----
-
-## Customization
-
-- **Theming:** Edit Tailwind config or component classNames for brand color changes.
-- **Add More Categories:** Update `categoriesList` in code.
-- **Cart Functionality:** Add cart logic to enhance user experience.
-
----
-
-## License
-
-MIT
-
----
-
-> Made with 💚 by [Your Name](https://github.com/your-username) for Urvann Plant Store.
+> Made with 💚 by [Your Name](https://github.com/itsshahbazhere) for Urvann Plant Store.
