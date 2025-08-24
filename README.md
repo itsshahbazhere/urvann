@@ -27,8 +27,8 @@ A modern, eco-friendly React app for browsing, searching, and managing plants. S
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/urvann-plant-store.git
-cd urvann-plant-store
+git clone https://github.com/itsshahbazhere/urvann.git
+cd urvann
 ```
 
 ### 2. Install Dependencies
@@ -65,4 +65,4 @@ The app runs on `http://localhost:5173` by default.
 ---
 
 
-> Made with 💚 by [Your Name](https://github.com/itsshahbazhere) for Urvann Plant Store.
+> Made with 💚 by [Shahbaz](https://github.com/itsshahbazhere) for Urvann Plant Store.
